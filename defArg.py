@@ -1,4 +1,4 @@
-# Create a function with variable length of arguments
+# Create a function with variable length of arguments: from pynative.com
 
 salary = input("Enter your salary: ")
 name = input("Enter your name: ")
